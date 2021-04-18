@@ -3,7 +3,7 @@ Sample Web API for Inventory System
 
 Operations Include
 
-    1) Add a new Inventory
+   	  1) Add a new Inventory
 	  2) Edit a new Inventory
 	  3) Delete a new Inventory
 	  4) List all the Inventory
@@ -25,3 +25,5 @@ Use Authorization Header with Value as (base64encodedstring)
 
 So Header would be (For valid one)
 Authorization - Basic cnN1a2hpamE6ZGRzc2Zha24xMTIyMTM0NDM=
+
+Note: This is a very basic WebAPI code due to limited knowledge. Will add on more functonalities in future.
